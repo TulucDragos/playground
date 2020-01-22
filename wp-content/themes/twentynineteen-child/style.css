@@ -1,0 +1,32 @@
+/*
+Theme Name: Twenty Nineteen Child
+Author: John Doe
+Author URI: http://example.com
+Template: twentynineteen
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain: twenty-fifteen-child
+*/
+
+.square {
+    width: 100%;
+    height: 150px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 150px;
+    border: solid black 3px;
+}
+
+.text {
+    display: inline-block;
+    line-height: 150px;
+    height: 150px;
+    vertical-align: middle;
+    text-align: center;
+}
